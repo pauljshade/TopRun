@@ -1,0 +1,8 @@
+{
+	"appConfig" :{
+			"defaultUser" 			: "paul.j.shade@gmail.com"
+		,	"applicationDataDir"	: "C:\\Users\\paulj\\Google Drive\\ApplicationData\\toprun"
+		,	"defaultTitle"			: "%YYYY-MM-DD% %HH:MM% %RUN_TYPE% %LOCATION%"
+		,	"defaultProcessDir"     : "%APP_DIR%\\toprocess"
+	}
+}
